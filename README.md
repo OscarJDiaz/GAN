@@ -1,2 +1,2 @@
 # GAN
-A studio about WGAN
+A studio about Generative Adverses Networks
